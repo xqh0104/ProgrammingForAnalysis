@@ -1,0 +1,29 @@
+1. Compute the total number of births for each year and provide a formatted printout of that.
+   Year Births
+   1880 23456
+   1881 12345
+   1882 13579
+   ...
+2. Compute the total births each year (from 1990 to 2014, inclusive of both) for males and females and provide a plot for that.
+3. Print the top 5 names for each year starting in 1950.
+    Year  Name 1
+    1950  Larry
+    1951  Harry
+    ...
+    Name 2
+    Sally
+    Moe
+    Name 3
+    Josie
+    Mary
+    Name 4
+    Tom
+    Curly
+    Name 5
+    Dick
+    Liz
+4. Find the top 3 female and top 3 male names for years 2010 and up and and plot the frequency by gender.
+5. Plot the trend of the names 'John', 'Harry', 'Mary' and 'Marilyn' over all of the years of the data set.
+    a. Stack 4 plots one over the other
+    b. Plot all four trends in one plot.
+6. Find the ten names that have shown the greatest variation over the years. Plot this.
