@@ -1,0 +1,7 @@
+The MIN value is 0.520
+gel: 40.000
+beef: 60.000
+wheat: 0.000
+rice: 0.000
+chicken: 0.000
+mutton: 0.000
